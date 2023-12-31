@@ -1,6 +1,6 @@
 <div align='center'>
 
-#QR Generator
+<h1>QR Generator</h1>
 
 This QR Generator it's create with educational proposals and [OpenSource license](./LICENSE).
 
