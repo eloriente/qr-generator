@@ -2,7 +2,7 @@
 
 <h1>QR Generator</h1>
 
-This QR Generator it's create with educational proposals and [OpenSource license](./LICENSE).
+This QR Generator it's create with educational proposals and [MIT license](./LICENSE).
 
 </div>
 
