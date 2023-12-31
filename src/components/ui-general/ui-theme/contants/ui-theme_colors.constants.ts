@@ -1,0 +1,25 @@
+export default {
+  //backgroundColors
+  backgroundColorA: '#FFFFFF',
+  backgroundColorB: '#000000',
+  backgroundColorC: '#363062',
+  backgroundColorD: '#435585',
+  backgroundColorE: '#818FB4',
+  backgroundColorF: '#F5E8C7',
+  backgroundColorSeverityA: '#E57373',
+  backgroundColorSeverityB: '#FFB74D',
+  backgroundColorSeverityC: '#81C784',
+  //fontColors
+  fontColorA: '#FFFFFF',
+  fontColorB: '#000000',
+  fontColorDarkedBlue: '#363062',
+  fontColorMediumBlue: '#435585',
+  fontColorSoftBlue: '#818FB4',
+  fontColorWhiteBone: '#F5E8C7',
+  fontColorSeverityA: '#F44336',
+  fontColorSeverityB: '#D32F2F',
+  fontColorSeverityC: '#FFA726',
+  fontColorSeverityD: '#F57C00',
+  fontColorSeverityE: '#66BB6A',
+  fontColorSeverityF: '#388E3C',
+};
