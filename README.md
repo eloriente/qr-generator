@@ -17,13 +17,19 @@ This QR Generator it's create with educational proposals and [OpenSource license
 </div>
 
 ___
-### Description of the project
-The project was born with the idea of being able to generate QR codes in a simple way and that allows you to download subject to a series of easy configuration options, avoiding as much as possible to send the data to servers so that there is no information traffic.
+## 📟 Description
+This project was born with the idea of being able to generate QR codes in a simple way and that allows you to download subject to a series of easy configuration options, avoiding as much as possible to send the data to servers so that there is no information traffic.
 
-### Technologies
-The project has been created with:
-- [Vite](https://vitejs.dev/) as a packager.
-- [React](https://react.dev/) as core web technology.
-- [StyleComponents](https://styled-components.com/) for the generation of dynamic components and themes.
-- [ReactRouterDom](https://reactrouter.com/en/main) for web pagination management.
-- [QrCode.React](https://www.npmjs.com/package/qrcode.react) for the generation of QR images and figures.
+## 🛠️ Technologies
+
+- [**Vite**](https://vitejs.dev/) - As a packager.
+- [**React**](https://react.dev/) - As core web technology.
+- [**StyleComponents**](https://styled-components.com/) - Generation of dynamic components and themes.
+- [**ReactRouterDom**](https://reactrouter.com/en/main) - Web pagination management.
+- [**QrCode.React**](https://www.npmjs.com/package/qrcode.react) - Generation of QR images and figures.
+
+## 🤝 Contributing
+
+<a href="https://github.com/eloriente/qr-generator/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eloriente/qr-generator" />
+</a>
